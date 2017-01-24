@@ -1,0 +1,2 @@
+# ansigo
+Ansible in GO
