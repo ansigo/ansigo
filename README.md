@@ -10,10 +10,10 @@ Ansible in GO. A drop in alternative to Ansible core
  ansigo-galaxy : an alternative to ansible galaxy.
 
 # Few design considerations.
-- works well in a vendor neutral environments.
-- Interoperable with existing Modules
-- Interoperable with existing roles
-- Interoperable with existing playbook
+- Design to works for vendor neutral solutions.
+- Interoperable with existing Ansible Modules
+- Interoperable with existing Ansible roles
+- Interoperable with existing Ansible playbook
 
 # License 
 
