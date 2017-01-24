@@ -1,2 +1,2 @@
 # ansigo
-Ansible in GO
+Ansible in GO. A drop in alternative to Ansible .
